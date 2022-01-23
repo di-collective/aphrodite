@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "ZSH_INIT_COMMAND": "nvm use v16.13.1"
+  },
+  "editor.formatOnSave": true
+}
